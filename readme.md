@@ -1,6 +1,6 @@
 # Usage
 
-Recuerda ```html2pdf```
+Recuerda instalar la librería ```html2pdf```
 https://packagist.org/packages/spipu/html2pdf
 
 
